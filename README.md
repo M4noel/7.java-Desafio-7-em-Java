@@ -2,7 +2,7 @@
 ## FizzBuzz em Java
 
 
-Digite um numero.
+Digite um número.
 ![fizzbuzz java recursivo](https://user-images.githubusercontent.com/86434035/130673342-52049986-92e6-49ce-98b5-1ac32a50e078.png)
 
 Dependendo do número colocado ira mostra se é  Fizz, Buzz ou FizzBuzz.
