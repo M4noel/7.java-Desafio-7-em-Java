@@ -10,7 +10,7 @@ Dependendo do número colocado ira mostra se é  Fizz, Buzz ou FizzBuzz.
 
 ![fizzbuzz java recursivo3](https://user-images.githubusercontent.com/86434035/130673499-3c7e3aa4-5f9b-4eac-86f7-cff10e03eff3.png)
 
-Tecnologias utilizada:
+Tecnologia utilizada:
 ------------------------
   - Java
  
